@@ -1,35 +1,17 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Mariano Nicolas Gil
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola a todos, me presento. Tengo 20 años y cumplo el 1° de Enero de 2004, actualmente me encuentro cursando mi tercer año de la Tecnicatura en Programación de la Universidad de Hurlingham.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+A mitad de mi ciclo lectivo en el secundario del Instituto San Alfonso, tuve un paneo de lo que es la programación. Siendo curioso, continue indagando sobre este mundo, hasta realizar distintos bootcamps de programación y desarrollo de sitios web (frontend y backend).
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Mi objetivo más grande en la vida es tener mi propia casa, no sabría decir si en Argentina o afuera ya que planeo mudarme del país una vez me haya recibido, pero bueno hay que ver como se dan las cosas. 
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+Por el momento, me encuentro trabajando en el Desarrollo de un sitio web, dedicado a la venta de repuestos de autos. Al igual que sigo profesionalizándome lo más que pueda en programación, y algún día trabajar de manera FreeLancer para clientes internacionales. 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Mis gustos:
+* **Entrenar:** Particularmente gimansio, pero soy de hacer deporte también.
+* **Videojuegos:** La mitad de mi vida se habrá ido jugando a juegos de compu o play, no sabría decir cual es mi favorito.
+* **Comida Favorita:** Guiso de lenteja, Asado, Hamburguesa, entre otras.
+* **Cine Favorito:** Avatar, Saga Star wars, Señor de los anillos, Harry Potter, y amor eterno a Dragon Ball.
